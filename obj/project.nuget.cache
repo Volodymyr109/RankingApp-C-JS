@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jqn0Yq8DMCgNop4pe3ZOaXXJWJW24QBPpHJ9paXXb3xKdc8wvRJKBW0mUkk8AsoMm0z0Gkyhd9mObje1InqVDg==",
+  "success": true,
+  "projectFilePath": "D:\\RankingApp\\RankingApp\\RankingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38096\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.22\\microsoft.aspnetcore.spaproxy.6.0.22.nupkg.sha512",
+    "C:\\Users\\38096\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\38096\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\38096\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\38096\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
